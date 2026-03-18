@@ -101,6 +101,8 @@ body {
   rgba:(255,255,255,0.1);
   font-family: "Lteef", serif;
   display:block;
+  width:100%;
+
 }
 
 
@@ -113,4 +115,5 @@ body {
   margin-top: 40px;
   box-shadow: 0- 2px 10px rgba (255,255,255,0.1)
   font-family:"Lateef",serif;
+  width:100%;
   }
