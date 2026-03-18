@@ -100,3 +100,16 @@ body {
   box-shadow: 0 0 15px;
   rgba(255,255,255,0.1)
   font-family: 'Lteef", serif;
+}
+
+
+.site-footer {
+  text-align: centre;
+  background-color: #222;
+  color: #fff;
+  font-size: 24px;
+  padding: 15px 0;
+  margin-top: 40px;
+  box-shadow: 0- 2px 10px rgba (255,255,255,0.1)
+  font-family:"Lateef",serif;
+  }
